@@ -2,8 +2,6 @@
 
 An interactive web application that allows users to **create**, **attempt**, and **analyze** quizzes. Designed for educators, students, and knowledge-sharing communities.
 
-![Quiz App Screenshot](./client/src/assets/quiz-banner.png) <!-- Add a real image path or GitHub URL here -->
-
 ---
 
 ## 🚀 Features
